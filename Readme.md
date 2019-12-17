@@ -14,6 +14,10 @@
 
 ### 1.1 Windows x86_64
 
+#### 1.1.1 Windows Installer
+
+Download the installer [here](https://drive.google.com/open?id=13kh3w4LQrgfKp57up_Io9YWK4L7V4ujx) [751.5Mb] and just follow the instructions.
+
 #### 1.1.2 Zip version
 
 Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s1xdAdMsSKiN44rMFpHY8lRLP) [887Mb] and unzip archviz-windows64.zip on your computer.
@@ -104,31 +108,31 @@ It could be used for some other actions in each mode because the camera used is 
 
 #### 3.2.4. Script: [MenuManager.cs](scripts/MenuManager.cs)
 
-Used only in menu to selct the game mode.
+Used only in menu to select the game mode.
 
 #### 3.2.5. Script: [LevelManager.cs](scripts/LevelManager.cs)
 
-Manage what's displayed on the screen according the mode played.
+Manages what's displayed on the screen according the mode played.
 
 #### 3.2.6. Script: [SpotCamMouseMovements.cs](scripts/SpotCamMouseMovements.cs)
 
-Manage the control of the mouse in Spot Play Mode. Many settings can be edited in the editor.
+Manages the control of the mouse in Spot Play Mode. Many settings can be edited in the editor.
 
 #### 3.2.7. Script: [SpotCamChangeRoom.cs](scripts/SpotCamChangeRoom.cs)
 
-Detect in which room we want to go in Spot Play Mode.
+Detects in which room we want to go in Spot Play Mode.
 
 #### 3.2.8. Script: [Mirror.cs](scripts/Mirror.cs)
 
-Manage the realistic reflexion in mirrors.
+Manages the realistic reflexion in mirrors.
 
 #### 3.2.9. Script: [Rotator.cs](scripts/Rotator.cs)
 
-Manage the rotation of the food in the micro-wave.
+Manages the rotation of the food in the micro-wave.
 
 #### 3.2.11. Cinematics
 
-Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397). Useful to make cinematic / cut scenes quite quickly (better than animator or cinemachine).
+Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397). Useful to make cinematics / cut scenes quite quickly (better than animator or cinemachine).
 
 ![05-building5.png](images/05-building5.png)
 
@@ -156,7 +160,6 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 - [Kitchen Appliances with Packaging - Robot Skeleton](https://assetstore.unity.com/packages/3d/props/electronics/kitchen-appliances-with-packaging-155472)
 - [Kitchen Props Free - Jake Sullivan](https://assetstore.unity.com/packages/3d/props/interior/kitchen-props-free-80208)
 - [MadGoat SSAA & Resolution Scale - MadGoat Studio](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/madgoat-ssaa-resolution-scale-86368)
-- [Modern UI Pack - Michsky](https://assetstore.unity.com/packages/tools/gui/modern-ui-pack-150824)
 - [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397)
 - [Realistic Furniture And Interior Props Pack - Sevastian Marevoy](https://assetstore.unity.com/packages/3d/props/furniture/realistic-furniture-and-interior-props-pack-120379)
 - [Shoes Mens / Ladies - Kobra Game Studios](https://assetstore.unity.com/packages/3d/props/clothing/shoes-mens-ladies-73134)
@@ -164,7 +167,6 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 - [Suburb Neighborhood House Pack Modular - Finward Studios](https://assetstore.unity.com/packages/3d/environments/urban/suburb-neighborhood-house-pack-modular-72712)
 - [Ultra Washing Machine PBR - 00Laboratories](https://assetstore.unity.com/packages/3d/props/electronics/ultra-washing-machine-pbr-144339)
 - [Umbrella PRO - Indie_G](https://assetstore.unity.com/packages/3d/props/clothing/umbrella-pro-55277)
-- [Zone - Complete Main Menu UI - Michsky](https://assetstore.unity.com/packages/tools/gui/zone-complete-main-menu-ui-144619)
 - [zz Ruler - orange030](https://assetstore.unity.com/packages/tools/utilities/zz-ruler-365)
 
 ### 4.3. Softwares
@@ -200,3 +202,5 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 
 - [My Github](https://github.com/Raigyo)
 - [My LinkedIn](https://www.linkedin.com/in/vincent-chilot/)
+
+![12-kitchen.png](images/12-kitchen.png)
