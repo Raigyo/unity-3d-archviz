@@ -130,7 +130,7 @@ Manages the realistic reflexion in mirrors.
 
 Manages the rotation of the food in the micro-wave.
 
-#### 3.2.11. Cinematics
+#### 3.2.10. Cinematics
 
 Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397). Useful to make cinematics / cut scenes quite quickly (better than animator or cinemachine).
 
