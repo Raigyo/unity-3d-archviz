@@ -2,7 +2,7 @@
 
 *December 2019 - Development time: 10 days*
 
-> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: First person mode, Spot points mode or Cinematic mode. you can select which mode you want to use in the main menu.
+> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: First person mode, Spots points mode or Cinematic mode. you can select which mode you want to use in the main menu.
 
 * * *
 
@@ -16,9 +16,9 @@
 
 #### 1.1.2 Zip version
 
-Download the zip with the game [here]() [887Mb] and unzip forest-windows64.zip on your computer.
+Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s1xdAdMsSKiN44rMFpHY8lRLP) [887Mb] and unzip archviz-windows64.zip on your computer.
 
-In 'archviz-windows64' launch forest-project.exe by clicking on it to play.
+In 'archviz-windows64' launch architecture.exe by clicking on it to play.
 
 ### 1.3 Scripts for reviewing
 
@@ -84,13 +84,13 @@ The most difficult part to manage according to me. In that kind of application t
 
 There are several realtime lights:
 
-- Two directionnal lights (key and backlights), without shadows. They are enhanced with [Aura 2 - Volumetric Lighting & Fog - Raphael Ernaelsten](https://assetstore.unity.com/packages/tools/particles-effects/aura-2-volumetric-lighting-fog-137148)
-- Four points lights are used in realtime in the room and living
+- Two directionnal lights (key and backlights), without shadows. They are enhanced with [Aura 2 - Volumetric Lighting & Fog - Raphael Ernaelsten](https://assetstore.unity.com/packages/tools/particles-effects/aura-2-volumetric-lighting-fog-137148).
+- Four points lights are used in realtime in the room and living that provide shadows and relief.
 
 Baked lights:
 
-- Many lightmaps / baked (= prerendered) lights are used in the differents rooms including spot lights and point lights
-- There are reflexion probes in each rooms
+- Many lightmaps / baked (= prerendered) lights are used in the differents rooms including spot lights and point lights.
+- There are reflexion probes in each rooms.
 
 On each camera (on camera per mode), there is post processing: the one provided by Unity and [MadGoat SSAA & Resolution Scale - MadGoat Studio](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/madgoat-ssaa-resolution-scale-86368))
 
