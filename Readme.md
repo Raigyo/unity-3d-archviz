@@ -24,9 +24,17 @@ Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s
 
 In 'archviz-windows64' launch architecture.exe by clicking on it to play.
 
+### 1.2 Mac OSX
+
+Download the zip with the game [here](https://drive.google.com/open?id=1Ht8BsUuc6hs_5jTsKUAzSrXocmY-JQI5) [919Mb] and unzip archviz-mac-osx.zip on your computer.
+
+In 'archviz-mac-osx' launch archviz-mac-osx.app by clicking on it to play.
+
+Warning: It's not an approved Mac App Store application so you will have to select 'allow apps downloaded from anywhere' or click on 'open anyway' on the alert box if you want to launch the game.
+
 ### 1.3 Scripts for reviewing
 
-Scripts used are in the [script folder](https://github.com/Raigyo/unity-3d-archviz/tree/master/scripts) on this repository.
+Scripts used are in the [scripts folder](https://github.com/Raigyo/unity-3d-archviz/tree/master/scripts) on this repository.
 
 *-------*
 
@@ -130,6 +138,12 @@ Manages the realistic reflexion in mirrors.
 
 Manages the rotation of the food in the micro-wave.
 
+#### 3.2.10. Script: [Clock.cs](scripts/Clock.cs)
+
+Script from **Andre "AEG" Bürger** modified to display the day and date on the smartphone in room.
+
+It has also been modified to display on the clock and on the smartphone the real hour / day.
+
 #### 3.2.10. Cinematics
 
 Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397). Useful to make cinematics / cut scenes quite quickly (better than animator or cinemachine).
@@ -142,12 +156,15 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 
 ### 4.1. Video, Music & Sounds
 
-- [Your Love - bloome | Background Music For Videos No Copyright Chill Vlog Music Royalty Free Calm EDM](https://www.youtube.com/watch?v=8ZjExjlcla8)
 - [Melissa - Eveningland | Royalty Free Music - No Copyright Music](https://www.youtube.com/watch?v=RPb4Y0V-kUw)
 - [Spring - Blender Open Movie](https://www.youtube.com/watch?v=WhWc3b3KhnY)
+- [Your Love - bloome | Background Music For Videos No Copyright Chill Vlog Music Royalty Free Calm EDM](https://www.youtube.com/watch?v=8ZjExjlcla8)
 
 ### 4.2. Assets used
 
+#### 4.2.1. Unity Asset Store
+
+- [3D Game Kit - Unity Technologies](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747)
 - [ArchVizPRO Interior Vol.3 - ArchVizPRO](https://assetstore.unity.com/packages/3d/environments/archvizpro-interior-vol-3-62337)
 - [ArchVizPRO Interior Vol.6 - ArchVizPRO](https://assetstore.unity.com/packages/3d/environments/urban/archvizpro-interior-vol-6-120489)
 - [Aura 2 - Volumetric Lighting & Fog - Raphael Ernaelsten](https://assetstore.unity.com/packages/tools/particles-effects/aura-2-volumetric-lighting-fog-137148)
@@ -168,6 +185,25 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 - [Ultra Washing Machine PBR - 00Laboratories](https://assetstore.unity.com/packages/3d/props/electronics/ultra-washing-machine-pbr-144339)
 - [Umbrella PRO - Indie_G](https://assetstore.unity.com/packages/3d/props/clothing/umbrella-pro-55277)
 - [zz Ruler - orange030](https://assetstore.unity.com/packages/tools/utilities/zz-ruler-365)
+
+#### 4.2.2. Free 3D
+
+- [Donkey Kong Jr. - Upright Arcade Machine - daystar65](https://free3d.com/3d-model/donkey-kong-jr-upright-arcade-machine-89019.html)
+
+#### 4.2.3. Turbosquid
+
+- [3D Dauphine Floor Lamp model - Designconnected ](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1388560)
+- [Coat tree black painted metall - yuriki](https://www.turbosquid.com/FullPreview/Index.cfm/ID/967969)
+- [Green apples - modelplusmodel ](https://www.turbosquid.com/FullPreview/Index.cfm/ID/546276)
+- [Thai Sandstone Female model - Hane3D](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1275160)
+
+#### 4.2.4. Cults3d
+
+- [Business card holder - Kevin Gallagher](https://cults3d.com/en/3d-model/various/business-card-holder-donegal3d)
+
+#### 4.2.5. 3DDD
+
+- [Forged umbrella stand - koffer](https://3ddd.ru/3dmodels/show/kovannaia_podstavka_pod_zont)
 
 ### 4.3. Softwares
 
