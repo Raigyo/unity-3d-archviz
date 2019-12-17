@@ -6,7 +6,7 @@
 
 * * *
 
-![03-building3.png](03-building3.png)
+![03-building3.png](images/03-building3.png)
 
 ## 1. Installation
 
@@ -68,7 +68,7 @@ Nothing to do here, just watch the cinematic!
 
 ## 3. Techniques / Assets / Scripts
 
-![01-building.png](01-building.png)
+![01-building.png](images/01-building.png)
 
 ### 3.1. Intro scene (scene name: intro)
 
@@ -86,7 +86,7 @@ The three versions of the showcase are just one scene with some GameObjects disp
 
 Made with several assets from the Unity asset store including *ArchVizPRO Interior Vol.3* and *ArchVizPRO Interior Vol.3*.
 
-![02-building2.png](02-building2.png)
+![02-building2.png](images/02-building2.png)
 
 #### 3.2.2. Lights
 
@@ -104,7 +104,7 @@ Baked lights:
 
 On each camera (on camera per mode), there is post processing: the one provided by Unity and [MadGoat SSAA & Resolution Scale - MadGoat Studio](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/madgoat-ssaa-resolution-scale-86368))
 
-![04-building4.png](04-building4.png)
+![04-building4.png](images/04-building4.png)
 
 #### 3.2.3. Script: [HitBehaviour.cs](scripts/HitBehaviour.cs)
 
@@ -140,7 +140,7 @@ Manage the rotation of the food in the micro-wave.
 
 Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https://assetstore.unity.com/packages/tools/animation/pegasus-65397). Useful to make cinematic / cut scenes quite quickly (better than animator or cinemachine).
 
-![05-building5.png](05-building5.png)
+![05-building5.png](images/05-building5.png)
 
 *-------*
 
