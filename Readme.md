@@ -104,7 +104,7 @@ Baked lights:
 - Many lightmaps / baked (= prerendered) lights are used in the differents rooms including spot lights and point lights.
 - There are reflexion probes in each rooms.
 
-On each camera (on camera per mode), there is post processing: the one provided by Unity and [MadGoat SSAA & Resolution Scale - MadGoat Studio](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/madgoat-ssaa-resolution-scale-86368))
+On each camera (one camera is used by mode), there is post processing: the one provided by Unity as package and [MadGoat SSAA & Resolution Scale from MadGoat Studio](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/madgoat-ssaa-resolution-scale-86368))
 
 ![04-building4.png](images/04-building4.png)
 
