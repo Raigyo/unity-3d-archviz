@@ -239,4 +239,4 @@ Cinematic mode has been made with the asset [Pegasus - Procedural Worlds](https:
 - [My Github](https://github.com/Raigyo)
 - [My LinkedIn](https://www.linkedin.com/in/vincent-chilot/)
 
-![12-kitchen.png](images/12-kitchen.png)
+![12-kitchen.png](images/12-bath.png)
