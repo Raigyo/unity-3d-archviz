@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
 {
@@ -12,7 +14,9 @@ public class LevelManager : MonoBehaviour
     public GameObject mainSpot; // GameObject that contain the arrows (to enbale or disable it);
     public GameObject wallColliders; // Colliders reference
     public GameObject crossHair; // Crosshair reference
-    //Scriptable Object ScriptableVars.cs
+    [SerializeField] private GameObject loadingScreen;//loading screen reference
+    [SerializeField] private Slider slider;//progressbar
+    public string nextScene;//name of next scene
     public ScriptableVars menuData;
 
     [System.NonSerialized]
@@ -62,11 +66,34 @@ public class LevelManager : MonoBehaviour
     public void Awake()
     {
         gameSelection();
+        loadingScreen.SetActive(false);
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            loadingScreen.SetActive(true);
+            StartCoroutine(LoadAsynchronously(nextScene));
+        }
+    }
+
+    IEnumerator LoadAsynchronously(string name)
+    {
+        AsyncOperation operation = SceneManager.LoadSceneAsync(name);
+        //freeze the game (to avoid player continue the game during preload
+        Time.timeScale = 0;
+        //set loading screen active
+        while (!operation.isDone)
+        {
+            float progress = Mathf.Clamp01(operation.progress / .9f);
+            slider.value = progress;
+            //progressText.text = progress * 100f + "%";
+
+            yield return null;
+        }
+        //preload bar then screen fade out
     }
 }
