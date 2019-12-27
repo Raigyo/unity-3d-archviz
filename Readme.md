@@ -2,7 +2,7 @@
 
 *December 2019 - Development time: 10 days*
 
-> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: First person mode, Spots points mode or Cinematic mode. you can select which mode you want to use in the main menu.
+> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: Hotspots mode, First Person Mode or Cinematic mode. you can select which mode you want to use in the main menu.
 
 * * *
 
@@ -46,7 +46,7 @@ This application is a showcase in which you can visit a house. The house has bee
 
 ### 2.1. How to play
 
-#### 2.1.1. Spots points view mode
+#### 2.1.1. Hotspots view mode
 
 Navigate in the different rooms by clicking with left button on the differents arrows around you (like in *Google Street Maps*).
 
@@ -110,7 +110,7 @@ On each camera (one camera is used by mode), there is post processing: the one p
 
 #### 3.2.3. Script: [HitBehaviour.cs](scripts/HitBehaviour.cs)
 
-Script that uses raycast especially in Spot Points Mode to manage the click on arrows.
+Script that uses raycast especially in Hotspots Mode to manage the click on arrows.
 
 It could be used for some other actions in each mode because the camera used is send by LevelManager.cs.
 
@@ -124,11 +124,11 @@ Manages what's displayed on the screen according the mode played.
 
 #### 3.2.6. Script: [SpotCamMouseMovements.cs](scripts/SpotCamMouseMovements.cs)
 
-Manages the control of the mouse in Spot Play Mode. Many settings can be edited in the editor.
+Manages the control of the mouse in Hotspots Mode. Many settings can be edited in the editor.
 
 #### 3.2.7. Script: [SpotCamChangeRoom.cs](scripts/SpotCamChangeRoom.cs)
 
-Detects in which room we want to go in Spot Play Mode.
+Detects in which room we want to go in Hotspots Mode.
 
 #### 3.2.8. Script: [Mirror.cs](scripts/Mirror.cs)
 
