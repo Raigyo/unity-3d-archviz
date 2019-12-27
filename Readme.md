@@ -2,7 +2,7 @@
 
 *December 2019 - Development time: 10 days*
 
-> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: Hotspots mode, First Person Mode or Cinematic mode. you can select which mode you want to use in the main menu.
+> 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. There are 3 modes: Hotspots mode, First Person Mode or Cinematic mode. You can select which mode you want to use in the main menu.
 
 * * *
 
