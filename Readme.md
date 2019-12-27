@@ -6,7 +6,7 @@
 
 * * *
 
-![11-room.png](images/11-room.png)
+![10-intro.png](images/10-intro.png)
 
 ![03-building3.png](images/03-building3.png)
 
@@ -38,7 +38,7 @@ Scripts used are in the [scripts folder](https://github.com/Raigyo/unity-3d-arch
 
 *-------*
 
-![10-intro.png](images/10-intro.png)
+![11-room.png](images/11-room.png)
 
 ## 2. About
 
