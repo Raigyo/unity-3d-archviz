@@ -1,4 +1,4 @@
-# Unity 3D / C# / Visual Studio - Original house visit development - 'Archviz'
+# Unity 3D / C# / Visual Studio - Original house visit development - 'Archviz' - version 2.0
 
 *December 2019 - Development time: 10 days*
 
@@ -16,11 +16,11 @@
 
 #### 1.1.1 Windows Installer
 
-Download the installer [here](https://drive.google.com/open?id=13kh3w4LQrgfKp57up_Io9YWK4L7V4ujx) [751.5Mb] and just follow the instructions.
+Download the installer [here](https://drive.google.com/open?id=13kh3w4LQrgfKp57up_Io9YWK4L7V4ujx) [830Mb] and just follow the instructions.
 
 #### 1.1.2 Zip version
 
-Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s1xdAdMsSKiN44rMFpHY8lRLP) [887Mb] and unzip archviz-windows64.zip on your computer.
+Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s1xdAdMsSKiN44rMFpHY8lRLP) [997Mb] and unzip archviz-windows64.zip on your computer.
 
 In 'archviz-windows64' launch architecture.exe by clicking on it to play.
 
