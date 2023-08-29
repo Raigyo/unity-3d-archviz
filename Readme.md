@@ -16,17 +16,17 @@
 
 #### 1.1.1 Windows Installer
 
-Download the installer [here](https://drive.google.com/open?id=13kh3w4LQrgfKp57up_Io9YWK4L7V4ujx) [830Mb] and just follow the instructions.
+Download the installer [here](https://raigyo-dev.be/downloads/archviz/archviz-setup.exe) [830Mb] and just follow the instructions.
 
 #### 1.1.2 Zip version
 
-Download the zip with the game [here](https://drive.google.com/open?id=1kudvA38s1xdAdMsSKiN44rMFpHY8lRLP) [997Mb] and unzip archviz-windows64.zip on your computer.
+Download the zip with the game [here](https://raigyo-dev.be/downloads/archviz/archviz-windows64.zip) [997Mb] and unzip archviz-windows64.zip on your computer.
 
 In 'archviz-windows64' launch architecture.exe by clicking on it to play.
 
 ### 1.2 Mac OSX
 
-Download the zip with the game [here](https://drive.google.com/open?id=1Ht8BsUuc6hs_5jTsKUAzSrXocmY-JQI5) [919Mb] and unzip archviz-mac-osx.zip on your computer.
+Download the zip with the game [here](https://raigyo-dev.be/downloads/archviz/archviz-mac-osx.zip) [919Mb] and unzip archviz-mac-osx.zip on your computer.
 
 In 'archviz-mac-osx' launch archviz-mac-osx.app by clicking on it to play.
 
